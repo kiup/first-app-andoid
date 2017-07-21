@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text1">Primer valor</string>
+    <string name="text2">Segundo valor</string>
+    <string name="btext1">Resultado</string>
+</resources>
