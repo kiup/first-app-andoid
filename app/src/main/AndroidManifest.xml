@@ -19,6 +19,7 @@
         <activity
             android:name=".SumActivity" android:parentActivityName=".MainActivity">
         </activity>
+
     </application>
 
 </manifest>
